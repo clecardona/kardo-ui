@@ -1,0 +1,22 @@
+{
+  "name": "kardo-ui",
+  "version": "1.0.0",
+  "description": "clecardona personal ui package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clecardona/kardo-ui.git"
+  },
+  "keywords": [
+    "clecardona"
+  ],
+  "author": "clecardona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clecardona/kardo-ui/issues"
+  },
+  "homepage": "https://github.com/clecardona/kardo-ui#readme"
+}
